@@ -31,9 +31,9 @@ Download additional languages and versions, including for long term servicing re
 
 | Architecture | Link | Notes |
 |--|:-:|-:|
-| ARM64 | [https://aka.ms/vs/16/release/vc_redist.arm64.exe](https://aka.ms/vs/16/release/vc_redist.arm64.exe) | Permalink for latest supported ARM64 version |
-| X86 | [https://aka.ms/vs/16/release/vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe) | Permalink for latest supported x86 version |
-| X64 | [https://aka.ms/vs/16/release/vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe) | Permalink for latest supported x64 version. To make it easy to install required Visual C++ ARM64 binaries when the X64 redistributable is installed on an ARM64 device, the X64 redistributable package contains both ARM64 and X64 binaries |
+| ARM64 | [https://aka.ms/vs/17/release/vc_redist.arm64.exe](https://aka.ms/vs/17/release/vc_redist.arm64.exe) | Permalink for latest supported ARM64 version |
+| X86 | [https://aka.ms/vs/17/release/vc_redist.x86.exe](https://aka.ms/vs/17/release/vc_redist.x86.exe) | Permalink for latest supported x86 version |
+| X64 | [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe) | Permalink for latest supported x64 version. To make it easy to install required Visual C++ ARM64 binaries when the X64 redistributable is installed on an ARM64 device, the X64 redistributable package contains both ARM64 and X64 binaries |
 
 ### Notes
 
